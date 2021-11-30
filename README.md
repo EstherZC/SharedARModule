@@ -5,4 +5,4 @@ How to use the SharedARModule in a unity project?
 
 1º Download the package SharedARModule.unitypackage
 
-2ºfollow the instructions in the user manual (ManualDeUsuario.pdf)
+2º Follow the instructions in the user manual (ManualDeUsuario.pdf)
