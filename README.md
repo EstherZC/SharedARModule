@@ -4,4 +4,5 @@ SharedARModule is a module that tries to facilitate the synchronization of speci
 How to use the SharedARModule in a unity project?
 
 1º Download the package SharedARModule.unitypackage
+
 2ºfollow the instructions in the user manual (ManualDeUsuario.pdf)
